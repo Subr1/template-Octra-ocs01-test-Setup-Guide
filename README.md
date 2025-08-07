@@ -7,7 +7,9 @@ This guide will walk you through the process of installing, configuring, and run
 works on
 
 linux
+
 macos
+
 windows
 
 ---
