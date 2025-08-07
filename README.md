@@ -47,9 +47,6 @@ Isi wallet.json:
 }
 ```
 
-Press Ctrl + O then Enter to save  
-Press Ctrl + X to exit
-
 ✅ Step 6: Run the Program
 
 ```bash
