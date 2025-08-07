@@ -1,6 +1,6 @@
 # Octra ocs01-test Setup Guide
 
-This repository provides a complete setup guide and necessary scripts for installing, configuring, and running the `ocs01-test` node.
+This guide will walk you through the process of installing, configuring, and running the [ocs01-test](https://github.com/octra-labs/ocs01-test.git) project on your system.
 
 ---
 
@@ -33,13 +33,11 @@ cp EI/exec_interface.json .
 
 ✅ Step 5: Create Your Wallet File or Import
 
-Open and edit wallet.json:
-
 ```bash
 nano wallet.json
 ```
 
-Then paste this JSON content:
+Isi wallet.json:
 
 ```json
 {
@@ -49,13 +47,11 @@ Then paste this JSON content:
 }
 ```
 
+Press Ctrl + O then Enter to save  
+Press Ctrl + X to exit
+
 ✅ Step 6: Run the Program
 
 ```bash
 ./target/release/ocs01-test
 ```
-
----
-
-**Note:**  
-This repository template and setup scripts were generated with the assistance of **ChatGPT** by OpenAI.
