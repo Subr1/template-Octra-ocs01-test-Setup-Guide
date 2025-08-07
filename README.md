@@ -37,7 +37,7 @@ cp EI/exec_interface.json .
 nano wallet.json
 ```
 
-Isi wallet.json:
+ wallet.json:
 
 ```json
 {
