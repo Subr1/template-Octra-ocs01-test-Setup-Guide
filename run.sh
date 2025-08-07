@@ -1,2 +1,2 @@
 #!/bin/bash
-./target/release/ocs01-test
+echo "Run script placeholder"

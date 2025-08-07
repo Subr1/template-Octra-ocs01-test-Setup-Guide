@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Setup script"
+echo "🚀 Starting Octra ocs01-test Node Setup"
+# Tambahkan perintah setup disini
