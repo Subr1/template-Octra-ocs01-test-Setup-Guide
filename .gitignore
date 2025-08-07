@@ -1,0 +1,13 @@
+# Rust
+/target/
+/**/*.rs.bk
+
+# Config
+wallet.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
