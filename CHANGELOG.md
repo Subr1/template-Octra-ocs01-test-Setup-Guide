@@ -1,4 +1,4 @@
 # Changelog
 
 ## [Unreleased]
-- Initial commit with full setup template
+- Initial full template created using script

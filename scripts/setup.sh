@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "�� Starting Octra ocs01-test setup..."
+echo "🚀 Starting Octra ocs01-test setup..."
 
 echo "[1/6] Installing Rust"
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
