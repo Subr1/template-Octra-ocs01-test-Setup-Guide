@@ -4,6 +4,14 @@ This guide will walk you through the process of installing, configuring, and run
 
 ---
 
+works on
+
+linux
+macos
+windows
+
+---
+
 ✅ Step 1: Clone the Repository
 
 ```bash
@@ -52,3 +60,7 @@ nano wallet.json
 ```bash
 ./target/release/ocs01-test
 ```
+
+
+
+for this task the ei file contains the interface for contract at address octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn, do not modify it
